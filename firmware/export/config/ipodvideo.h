@@ -50,6 +50,7 @@
 
 /* define this if you would like tagcache to build on this target */
 #define HAVE_TAGCACHE
+#define ROCKBOX_HAS_LOGF
 
 /* LCD dimensions */
 #define LCD_WIDTH  320
