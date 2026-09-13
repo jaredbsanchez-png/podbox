@@ -29,7 +29,7 @@
 #include "panic.h"
 #include "usb_drv.h"
 
-/*#define LOGF_ENABLE*/
+#define LOGF_ENABLE
 #include "logf.h"
 
 /* USB device mode registers (Little Endian) */
